@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Task-Flair-Solution</string>
+    <string name="reminder_txt">Organizing your reminders so you never miss a special occasion</string>
+    <string name="set_reminder">Set Reminder</string>
+    <string name="upload_moment">Upload moment</string>
+    <string name="upload_moment_txt">Upload you cuties intresting pictures with other</string>
 </resources>
