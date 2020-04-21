@@ -1,0 +1,2 @@
+rootProject.name='Task-Flair-Solution'
+include ':app'
